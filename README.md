@@ -12,3 +12,5 @@ git clone https://github.com/Xenz-11/virus
 cd virus
 python virus.py
 ```
+# SCREENSHOT
+![KNTL](https://github.com/Xenz-11/virus/blob/main/Ss/Screenshot_20220703-225606.jpg)
